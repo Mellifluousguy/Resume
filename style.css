@@ -34,17 +34,13 @@ body{
 
 aside {
     width: 40%;
+    padding: 0 5%;
+    margin-bottom: 2%;
 }
 
 section {
     width: 60%;
     border-left: 1px solid lightgray;
-}
-
-aside{
-    padding: 0 5%;
-}
-section{
     padding: 0 2%;
 }
 
